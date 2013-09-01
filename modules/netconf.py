@@ -54,7 +54,6 @@ def get_config(host="127.0.0.1", port="830", username="admin", password="admin",
 
 def capabilities(host="127.0.0.1", port="830", username="admin", password="admin"):
     '''
-
     Query for the NETCONF capabilities advertised by a specific host
 
     CLI Example:
